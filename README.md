@@ -1,7 +1,8 @@
 # TableauDistTool
 Email Distribution Tool for Tableau Server
 
-The Dist tool need to run on trusted host, the run the following script on Tableau Server to configure Trusted Authentication.
+The Dist tool need to run on trusted host, 
+run the following script on Tableau Server to configure Trusted Authentication.
 
 --Configure Trusted Authentication
 tabadmin stop 
